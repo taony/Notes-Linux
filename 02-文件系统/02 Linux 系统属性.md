@@ -1,31 +1,27 @@
 
 # 1、文件属性显示 TODO
 
-```
-[root@localhost /]# ls
-bin   dev  home  lib64       media  opt   root  selinux  sys  usr
-boot  etc  lib   lost+found  mnt    proc  sbin  srv      tmp  var
+
+> 
+> [root@localhost /]# ls
+> 
+> bin   dev  home  lib64       media  opt   root  selinux  sys  usr
+> 
+> boot  etc  lib   lost+found  mnt    proc  sbin  srv      tmp  var
+> 
 
 
-```
 #2、文件属性
 
 文件的属性共包含七列：
 
 - 文件权限
-
 - 连接数
-
 - 文件所有者
-
 - 文件所属用户组
-
 - 文件大小
-
 - 文件最后被修改日期
-
 - 文件名
-
 
 ## 2.1、文件的类型与权限
 
@@ -35,9 +31,10 @@ boot  etc  lib   lost+found  mnt    proc  sbin  srv      tmp  var
 
 - [d]：表示目录
 - [-]：表示文件
-- [l]：表示链接文件（linkfile）
+- [l]：表示链接文件（link file）
 - [b]：表示设备文件里面的可供存储的接口设备
 - [c]：表示设备文件里面的串行端口设备
+
 
 **文件权限：rwx表示三种权限**
 
@@ -60,3 +57,6 @@ boot  etc  lib   lost+found  mnt    proc  sbin  srv      tmp  var
 ## 2.6、文件的创建日期或者最近修改日期
 
 ## 2.7、文件的文件名
+
+
+#3、chgrp：更改文件属组
