@@ -61,7 +61,7 @@
 
 # 3、chgrp：更改文件属组
 
-# 4、chmod
+# 4、chmod：
 
 # 5、chown：修改所属人
 
