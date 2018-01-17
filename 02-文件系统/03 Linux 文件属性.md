@@ -2,13 +2,11 @@
 # 1、文件属性显示 TODO
 
 
-> 
 > [root@localhost /]# ls
-> 
+
 > bin   dev  home  lib64       media  opt   root  selinux  sys  usr
-> 
-> boot  etc  lib   lost+found  mnt    proc  sbin  srv      tmp  var
-> 
+
+> boot  etc  lib   lost+found  mnt    proc  sbin  srv      tmp  var 
 
 
 # 2、文件属性
