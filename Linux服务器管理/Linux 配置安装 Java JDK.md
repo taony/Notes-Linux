@@ -57,6 +57,7 @@ export PATH JAVA_HOME CLASSPATH
 //重启命令：sudo shutdown -r now
 ```
 
+
 ## 7、验证安装
 
 ```
